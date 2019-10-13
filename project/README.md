@@ -34,3 +34,6 @@ nltk: https://www.nltk.org/ (Python base)
 Any question please ask your group leader, if leader can't solve the problem, please drop me an email: bju@chen.me,
 I may not able to response on-time, but I'll try my best.
 
+# Resources
+- How to build chat-bot with NLTK [Simple Tutorial](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
+
